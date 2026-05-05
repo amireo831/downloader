@@ -79,10 +79,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [watch](https://github.com/amireo831/downloader/tree/main/downloads/watch)
 
 2. [watch_cloud](https://github.com/amireo831/downloader/tree/main/downloads/watch_cloud)
+
+3. [watch_theta](https://github.com/amireo831/downloader/tree/main/downloads/watch_theta)
 
 ---
